@@ -2,7 +2,7 @@
 
 ## Live
 
-[names-that-could-be-needed.netlify.app](names-that-could-be-needed.netlify.app)
+[names-that-could-be-needed.netlify.app](https://names-that-could-be-needed.netlify.app/)
 
 ## Licencia
 
