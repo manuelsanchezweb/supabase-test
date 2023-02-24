@@ -1,9 +1,5 @@
 # Supabase - Uso con React en 5 sencillos pasos
 
-## Live
-
-[names-that-could-be-needed.netlify.app](https://names-that-could-be-needed.netlify.app/)
-
 ## Licencia
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
